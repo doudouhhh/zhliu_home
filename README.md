@@ -1,3 +1,3 @@
 # zhliu_home
 
-Zhonghang is a Ph.D. candidate in Singapore Management University, advisored by prof. Daniel Lin
+Zhonghang is a Ph.D. candidate in Singapore Management University, working with prof. Daniel Lin
